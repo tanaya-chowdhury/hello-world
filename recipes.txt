@@ -3,3 +3,10 @@ lets create
 pasta
 pizza
 burger
+
+......................
+Adding non vg recipes
+......................
+chicken chilly
+chicken tikka
+griled fish
